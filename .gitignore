@@ -1,0 +1,33 @@
+# Build output
+Debug/
+Release/
+Win32/Debug/
+Win32/Release/
+x64/
+
+# Visual Studio intermediate files
+ipch/
+*.obj
+*.tlog
+*.idb
+*.ilk
+*.pdb
+*.pch
+*.ipch
+*.aps
+*.res
+*.manifest
+*.log
+*.lastbuildstate
+*.cache
+
+# Visual Studio user files
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.opendb
+
+# Office temp files
+~$*.xlsx
+*.xlsx
